@@ -1,0 +1,38 @@
+{
+  "skills": {
+    "lark-channel-sales-content": {
+      "enabled": true,
+      "autoActivate": true
+    }
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "lark-cli",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'lark-cli executed'"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "lark-cli wiki *",
+      "lark-cli im *",
+      "lark-cli docs *",
+      "lark-cli contact *",
+      "lark-cli auth *",
+      "lark-cli config *",
+      "WebSearch",
+      "WebFetch"
+    ],
+    "ask": [
+      "lark-cli wiki +delete-space",
+      "lark-cli wiki +node-delete",
+      "lark-cli wiki +member-remove"
+    ]
+  }
+}
