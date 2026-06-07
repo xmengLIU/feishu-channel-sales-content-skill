@@ -1,4 +1,4 @@
-# 飞书渠道伙伴内容推送 Skill — 配置模板
+# 渠道伙伴常态化信息赋能 Skill — 配置模板
 
 > **用途：** 首次初始化时，Agent 将读取此模板引导用户完成配置。配置完成后存储在飞书知识库中。
 
@@ -143,7 +143,7 @@ push_schedule:
 ```
 Step 1: 确认 lark-cli 已安装 → lark-cli --version
 Step 2: 确认已授权 → lark-cli auth login --domain feishu
-Step 3: 运行初始化 → AI Agent 对话中输入「帮我初始化飞书渠道伙伴内容推送技能」
+Step 3: 运行初始化 → AI Agent 对话中输入「帮我初始化渠道伙伴常态化信息赋能技能」
 Step 4: Agent 自动完成：创建空间 → 创建目录 → 创建群聊 → 保存配置
 Step 5: 验证 → 录入一条测试数据，确认全流程可用
 ```

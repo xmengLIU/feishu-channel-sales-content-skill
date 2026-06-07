@@ -1,4 +1,4 @@
-# 飞书渠道伙伴资讯 & 培训知识库推送 Skill
+# 渠道伙伴常态化信息赋能 Skill
 
 > **面向角色：** 字节跳动飞书渠道销售经理
 > **核心定位：** 自动整理内容 + 定向推送 + 知识库沉淀
@@ -47,7 +47,7 @@
 在 AI Agent 对话中执行：
 
 ```
-"帮我初始化飞书渠道伙伴内容推送技能"
+"帮我初始化渠道伙伴常态化信息赋能技能"
 ```
 
 Agent 将自动完成：
@@ -122,9 +122,9 @@ Feishu_skill_2/
 
 ## 六、与已有技能的关系
 
-本 Skill（`lark-channel-sales-content`）与已有 `lark-channel-sales` Skill **互补**：
+本 Skill（`lark-channel-partner-enablement`）与已有 `lark-channel-sales` Skill **互补**：
 
-| 维度 | lark-channel-sales | lark-channel-sales-content |
+| 维度 | lark-channel-sales | lark-channel-partner-enablement |
 |------|-------------------|--------------------------|
 | 定位 | **数据分析** | **内容管理 + 推送** |
 | 核心功能 | 伙伴业绩分级、KPI监测、趋势追踪 | 内容归集、定向推送、知识库查询 |

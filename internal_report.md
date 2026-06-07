@@ -1,4 +1,4 @@
-# 飞书渠道伙伴内容推送 Skill — 内部汇报
+# 渠道伙伴常态化信息赋能 Skill — 内部汇报
 
 > 汇报人：飞书渠道销售团队 | 2026.06.07
 > 代码仓库：https://github.com/xmengLIU/feishu-channel-sales-content-skill

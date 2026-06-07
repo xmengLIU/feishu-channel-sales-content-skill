@@ -1,4 +1,4 @@
-# CLAUDE.md — 飞书渠道伙伴资讯 & 培训推送 Skill
+# CLAUDE.md — 渠道伙伴常态化信息赋能 Skill
 
 This file provides guidance to Claude Code when working with this repository.
 
@@ -34,10 +34,10 @@ AI Agent (reads SKILL.md)
 
 ## Skill Deployment
 
-The skill is deployed to `~/.claude/skills/lark-channel-sales-content/SKILL.md`.
+The skill is deployed to `~/.claude/skills/lark-channel-partner-enablement/SKILL.md`.
 After editing `SKILL.md`, sync with:
 ```bash
-cp SKILL.md ~/.claude/skills/lark-channel-sales-content/SKILL.md
+cp SKILL.md ~/.claude/skills/lark-channel-partner-enablement/SKILL.md
 ```
 
 ## Prerequisites
