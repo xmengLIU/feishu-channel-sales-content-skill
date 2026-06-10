@@ -41,3 +41,6 @@ env/
 dist/
 build/
 out/
+
+# Demo mode output
+demo_output/
